@@ -351,7 +351,7 @@ module OneLogin
           :validate_signed_elements,
           :validate_structure,
           :validate_in_response_to,
-          :validate_one_conditions,
+#          :validate_one_conditions,
           :validate_conditions,
           :validate_one_authnstatement,
           :validate_audience,
